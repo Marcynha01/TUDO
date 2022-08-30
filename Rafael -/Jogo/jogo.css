@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(186, 182, 248);
+}
+img{
+
+height: 300px;
+
+
+}
+button{
+    border-radius: 100%;
+    height: 50px;
+    width: 100px;
+    background-color: rgb(250, 250, 250);
+}
+body{
+    margin-top: 280px;
+}
+h1{
+    color: rgb(3, 3, 3);
+}
+h3{
+    color: rgb(0, 0, 0);
+}
+.mulhermen{
+    margin: 0%;
+}
+#divNumero{
+    text-align: center;
+    border-radius: 30px;
+}
